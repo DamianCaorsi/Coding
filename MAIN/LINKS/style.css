@@ -6,6 +6,11 @@ body {
     background-color: #32464e;
 }
 
+ul {
+    list-style-type: none;
+    margin-left: 2em;
+}
+
 h1, h2, h3, h4, h5, h6 {
     color: #491c1c;
 }
