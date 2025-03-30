@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(22, 22, 22);
+}
+
+h1 {
+    color:rgb(146, 146, 146); 
+    text-align:center;
+    display: inline;
+}
+
+p {
+    color:red;
+    font-family:system-ui;
+    font-size:23px;
+    font-weight: 100;
+    text-align: left; 
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+span {
+    font-weight: 400;
+    font-family: meka;
+    text-decoration: line-through;
+    color:rgb(63, 23, 184);
+}
